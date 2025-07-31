@@ -1,7 +1,7 @@
 
-# stm32f4xx_drivers
+# STM32F4xx Drivers
 
-This repository contains driver code and supporting utilities for the STM32F4xx series of microcontrollers. The drivers are written in C and are intended to provide a foundational layer for embedded development on STM32F4xx devices.
+This repository contains custom peripheral drivers for the STM32F4xx series microcontrollers, developed in C. The drivers are designed to provide low-level access and control over various hardware peripherals such as GPIO, SPI. These implementations serve as educational resources and building blocks for embedded systems projects using STM32F4xx MCUs.
 
 ## Features
 
