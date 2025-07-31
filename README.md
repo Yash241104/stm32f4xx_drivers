@@ -39,10 +39,6 @@ stm32f4xx_drivers/
 
 Contributions are welcome! Please create an issue or submit a pull request to improve or add new drivers.
 
-## License
-
-This project is open source. See the LICENSE file for details.
-
 ## Author
 
 [Yash241104](https://github.com/Yash241104)
